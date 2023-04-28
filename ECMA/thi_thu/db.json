@@ -1,0 +1,20 @@
+{
+  "products": [
+    {
+      "name": "San Pham 2 update 1",
+      "category": "danh muc 2",
+      "description": "mo ta 2 update 2",
+      "image": "https://res.cloudinary.com/dv3vzmogk/image/upload/v1666142438/anhhtus/%C4%90%E1%BB%81%20thi/3_225_c6ncpa.jpg",
+      "price": "123",
+      "id": 2
+    },
+    {
+      "name": "san pham 3",
+      "category": "danh muc 2",
+      "description": "mo ta 3",
+      "image": "https://res.cloudinary.com/dv3vzmogk/image/upload/v1666142436/anhhtus/%C4%90%E1%BB%81%20thi/sm-s908_galaxys22ultra_front_burgundy_211119_1_mccaah.jpg",
+      "price": "1232222",
+      "id": 3
+    }
+  ]
+}

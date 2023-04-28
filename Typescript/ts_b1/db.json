@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "pro1cđc",
+      "price": "100",
+      "gender": "Việt Nam"
+    },
+    {
+      "name": "pro 02 ",
+      "price": "2222",
+      "gender": "Japan",
+      "id": 2
+    },
+    {
+      "name": "dccd",
+      "price": "3333",
+      "gender": "Japan",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "name": "ff",
+      "price": "444",
+      "gender": "Japan"
+    },
+    {
+      "name": "     cc ",
+      "price": "333",
+      "gender": "Japan",
+      "id": 5
+    },
+    {
+      "name": "     ê",
+      "price": "333",
+      "gender": "Japan",
+      "id": 6
+    }
+  ]
+}
